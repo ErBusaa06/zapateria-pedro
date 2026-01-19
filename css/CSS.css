@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    background-image: url(../Images/fondo.jpg);
+}
+.encabezado{
+    width: 1920px;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.pie{
+    height: 150px;
+    width: 1920px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.arriba{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    bottom: 100px;
+}
+
+.textopie{
+    display: inline-block;
+    margin-left: 790px;
+}
+
+.abajo{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    bottom: 10px;
+}
+
+.hombre{
+    position: fixed;
+    top: 17%;
+    left: 25%;
+}
+
+.zh{
+    position: fixed;
+    top: 450px;
+    color: white;
+    left: 100px;
+    font-size: 30px;
+}
+
+.zm{
+    position: fixed;
+    top: 450px;
+    color: white;
+    left: 1500px;
+    font-size: 30px;
+}
+
+.mujer{
+    position: fixed;
+    top: 17%;
+    left: 57%;
+}

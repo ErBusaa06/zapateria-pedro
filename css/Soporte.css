@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.encabezado{
+    width: 1920px;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.pie{
+    height: 150px;
+    width: 1920px;
+    background-color: #111;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.arriba{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    bottom: 100px;
+}
+
+.textopie{
+    display: inline-block;
+    margin-left: 790px;
+}
+
+.abajo{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    bottom: 10px;
+}
+
+.soporte{
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 200px;
+    width: 650px;
+    left: 50px;
+}
+
+.tarjeta{
+    position: fixed;
+    top: 150px;
+    left: 1555px;
+}
+
+.soporte2{
+    display: inline-block;
+    position: fixed;
+    top: 250px;
+    left: 750px;
+    width: 750px;
+}
+.titulosoporte{
+    position: relative;
+    top: 150px;
+    left: 650px;
+    font-size: 25px;
+}
