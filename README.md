@@ -29,7 +29,7 @@ Incluye catálogo de productos, páginas de detalle, proceso de compra y secció
 
 ## 🌐 Demo del proyecto
 
-(Agrega aquí tu enlace de GitHub Pages cuando esté activo)
+https://erbusaa06.github.io/zapateria-pedro/
 
 ## 👨‍💻 Autor
 
