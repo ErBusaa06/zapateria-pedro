@@ -1,4 +1,4 @@
-# Zapatería Pedro
+# Zapatería Pedro (DEMO: Puede contener errores)
 
 Proyecto realizado en 1º DAM: sitio web completo para una zapatería ficticia.  
 Incluye catálogo de productos, páginas de detalle, proceso de compra y sección de soporte.
